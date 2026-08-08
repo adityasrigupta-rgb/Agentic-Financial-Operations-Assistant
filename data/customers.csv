@@ -1,0 +1,6 @@
+customer_id,name,account_type,city,risk_level
+C001,Rahul Kumar,SAVINGS,Vijayawada,LOW
+C002,Priya Sharma,SAVINGS,Guntur,LOW
+C003,Arjun Reddy,CURRENT,Hyderabad,MEDIUM
+C004,Sneha Rao,SAVINGS,Vijayawada,LOW
+C005,Vikram Singh,CURRENT,Hyderabad,HIGH

@@ -1,0 +1,8 @@
+ticket_id,customer_id,transaction_id,issue,status,priority
+TKT001,C001,TXN001,Payment failed but amount was deducted,OPEN,HIGH
+TKT002,C002,TXN002,Need transaction details,CLOSED,LOW
+TKT003,C003,TXN003,Payment failed and refund not received,OPEN,HIGH
+TKT004,C004,TXN004,Payment is still pending,OPEN,MEDIUM
+TKT005,C005,TXN005,Customer does not recognize transaction,OPEN,HIGH
+TKT006,C003,TXN008,Suspicious high value transaction,OPEN,HIGH
+TKT007,C004,TXN009,Amount deducted for failed payment,OPEN,MEDIUM
