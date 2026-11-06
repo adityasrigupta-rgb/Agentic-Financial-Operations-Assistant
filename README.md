@@ -127,6 +127,6 @@ Agentic-Financial-Operations-Assistant/
 
 ## Author
 
-Hemanth Kumar
+Bomma Jyothir Aditya Sri Gupta
 
 Built as a Multi-Agent AI solution for Financial Operations Automation.
